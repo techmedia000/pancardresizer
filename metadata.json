@@ -1,0 +1,5 @@
+{
+  "name": "PanCard Photo Resizer",
+  "description": "An online tool to resize, crop, and compress photos and signatures for PAN card applications, ensuring they meet the required specifications for dimensions and file size.",
+  "requestFramePermissions": []
+}
