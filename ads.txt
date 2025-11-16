@@ -1,0 +1,3 @@
+# Please add your advertising system publisher ID here.
+# Example for Google AdSense:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
